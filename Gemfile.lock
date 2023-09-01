@@ -3,7 +3,7 @@ PATH
   specs:
     simple_dragonfly_preview (0.0.7)
       dragonfly (~> 1.0.0)
-      rails (~> 4.0)
+      rails (~> 5.0)
       simple_form
 
 GEM
